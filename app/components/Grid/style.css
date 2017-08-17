@@ -8,8 +8,8 @@
 }
 
 .gridItem {
-  width:23%;
-  margin:15px;
+  width:20%;
+  margin:30px;
 }
 
 .gridImage:hover {
@@ -19,6 +19,6 @@
 }
 
 img{
-  max-width: 300px;
+  max-width: 300%;
   max-height: 200px;
 }

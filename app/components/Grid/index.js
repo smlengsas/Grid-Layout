@@ -27,7 +27,6 @@ export default class Grid extends React.PureComponent {
             <img src={require("../../images/" +image)} className="gridImage" />
           </div>
         ))}
-
         </div>
       </div>
     );

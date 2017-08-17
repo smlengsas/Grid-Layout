@@ -3,10 +3,11 @@
 @media (max-width: 450px) {
   .grid {
     flex-direction:column;
+    flex-wrap:wrap;
   }
 
   .gridItem {
     width:100%;
-    margin:0;
+    margin:15px;
   }
 }
