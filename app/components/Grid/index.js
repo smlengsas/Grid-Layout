@@ -14,7 +14,7 @@ export default class Grid extends React.PureComponent {
   constructor() {
     super();
     this.state = {
-      images:["beachdock.jpg", "beachdrink.jpg", "siestabeach.jpg", "sunsetbeach.jpg"]
+      images:["beachdock1.jpg", "beachdrink1.jpg", "siestabeach.jpg", "sunsetbeach.jpg"]
     }
   }
 
